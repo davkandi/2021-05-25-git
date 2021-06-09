@@ -8,3 +8,4 @@
 - `log`: show you commit history
 - `log --oneline`: condensed history
 - `diff`: gives you the difference
+- `checkout <id> <FILE>`: reverse the current haed to the commit ID 
