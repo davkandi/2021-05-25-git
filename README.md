@@ -7,3 +7,4 @@
 	- `commit -m "MESSAGE"`: commit without opening the text editor
 - `log`: show you commit history
 - `log --oneline`: condensed history
+- `diff`: gives you the difference
