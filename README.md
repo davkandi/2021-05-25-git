@@ -21,3 +21,9 @@
 - ` remote add <NAME> <URL>`: <NAME=origin> point to the remote
 - `push <WHERE> <WHAT>`: local repo -> remote
 - `pull <WHERE> <WHAT>`: remote -> local  
+
+## branches
+How to fix master -> main
+
+1. `git checkout -b main`
+2. `git push origin main`
