@@ -16,4 +16,8 @@
   - `checkout <SHA>`: move you back to <SHA>
 - `.gitignore`: file that pattern matches files to ignore
 - `.gitkeep`: convention to keep a empty folder
- 
+
+## remotes
+- ` remote add <NAME> <URL>`: <NAME=origin> point to the remote
+- `push <WHERE> <WHAT>`: local repo -> remote
+- `pull <WHERE> <WHAT>`: remote -> local  
